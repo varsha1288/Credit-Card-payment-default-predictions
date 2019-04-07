@@ -1,4 +1,4 @@
-# Mining-Credit-Default
+# Mining Credit Default
 
 Predicting the credit card payment default of clients:
 
